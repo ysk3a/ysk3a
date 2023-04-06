@@ -47,8 +47,20 @@ sdfsdf
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?quoteCategory=programming)
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?quoteCategory=success) -->
 
+<img src="https://github-readme-stats.vercel.app/api?username=ysk3a&show_icons=true" alt="ysk3a Github Stats"></img>
+:key: GPG key: [`1234`](https://github.com/ysk3a)
+:thought_balloon: Ask me anything at [Discussions](https://github.com/ysk3a/ysk3a/discussions/new)!
 
 
+[![Linkedin Badge](https://img.shields.io/badge/-,,,,,,,,,,-blue?style=flat&logo=Linkedin&logoColor=white&link=,,,,,,,,,)](,,,,,,,,,/)
+[![Twitter Badge](https://img.shields.io/badge/-,,,,,,,,,,,,?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=,,,,,,,,,)](https://twitter.com/_jesslim)
+[![Gmail Badge](https://img.shields.io/badge/-,,,,,,,?style=flat&logo=Gmail&logoColor=white&link=mailto:,,,,,,,,,,)](mailto:,,,,,,,,,,,,,,)
+
+look into more examples ```https://github.com/suryakantamangaraj/AwesomeGithubProfileTemplates```
+
+
+### :pencil: [Latest blog posts](https://ouuan.moe?utm_source=GitHubProfile)
+<!-- https://wakapi.dev/ -->
 
 <!--
 **ysk3a/ysk3a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
