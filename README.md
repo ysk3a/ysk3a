@@ -45,12 +45,15 @@ Here are some ideas to get you started:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ysk3a)  
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ysk3a)](https://github.com/anuraghazra/github-readme-stats)
 ![ysk3a's GitHub stats](https://github-readme-stats.vercel.app/api?username=ysk3a&show_icons=true&theme=transparent)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ysk3a&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+![ysk3a's Github Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=ysk3a&langs_count=10&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
+[![Top Langs2](https://github-readme-stats.vercel.app/api/top-langs/?username=ysk3a&langs_count=10&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs3](https://github-readme-stats.vercel.app/api/top-langs/?username=ysk3a&langs_count=10&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ysk3a&show_icons=true)  
-![ysk3a's GitHub stats](https://github-readme-stats.vercel.app/api?username=ysk3a&count_private=true)
-
+![ysk3a's GitHub stats](https://github-readme-stats.vercel.app/api?username=ysk3a&show_icons=true&theme=discord_old_blurple&count_private=true)
+<i>waiting for organization support for readme stats to show other languages</i>
+<!-- ?orgs=backend-practice-group -->
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ysk3a)  
 
 ![GitHub metrics](https://metrics.lecoq.io/ysk3a)  
