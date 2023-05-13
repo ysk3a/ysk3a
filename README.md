@@ -40,16 +40,16 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ysk3a&label=Profile%20views&color=0e75b6&style=flat" alt="ysk3a" /> </p>
 <i>visit count triggered mostly by me with every refresh instead of unique it seems :P</>
 <!--  -->
-
 <h3> temporary img to test out below how it looks in md</h3>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ysk3a)  
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
-![ysk3a's GitHub stats](https://github-readme-stats.vercel.app/api?username=ysk3a&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ysk3a)](https://github.com/anuraghazra/github-readme-stats)
+![ysk3a's GitHub stats](https://github-readme-stats.vercel.app/api?username=ysk3a&show_icons=true&theme=transparent)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ysk3a&show_icons=true)  
+![ysk3a's GitHub stats](https://github-readme-stats.vercel.app/api?username=ysk3a&count_private=true)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ysk3a)  
 
