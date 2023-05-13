@@ -36,9 +36,9 @@ Here are some ideas to get you started:
 - Interests
 ***
 ![Visitor Count](https://profile-counter.glitch.me/ysk3a/count.svg)
-
+![Profile views](https://gpvc.arturio.dev/ysk3a)  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ysk3a&label=Profile%20views&color=0e75b6&style=flat" alt="ysk3a" /> </p>
-
+<i>visit count triggered mostly by me with every refresh instead of unique it seems :P</>
 <!--  -->
 
 <h3> temporary img to test out below how it looks in md</h3>
@@ -57,7 +57,6 @@ Here are some ideas to get you started:
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=ysk3a)  
 
-![Profile views](https://gpvc.arturio.dev/ysk3a)  
 <!-- [![HitCount](https://hits.dwyl.com/{username}/{project-name}.svg)](https://hits.dwyl.com/{username}/{project-name}) -->
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
