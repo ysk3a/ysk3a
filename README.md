@@ -32,6 +32,8 @@ Here are some ideas to get you started:
   - not by phone, that's for sure 😂
 - 😄 i asked my dog this morning how his week's been going and he said ruff and i felt that... i felt that...
 - ⚡ Fun fact: ...
+  - When you see me sigh or take a deep breathe, 99% of the time it is because i forgot to breathe and not because of you.
+  - I don't often go on reddit as pass time but when i do, i go on to find posts that resonate with me... like r/meirl, r/memes or r/programminghumor.
 - 📄 Know about my experiences
 - Interests
 ***
