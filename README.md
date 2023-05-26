@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
   - codemirror 6 in angular 16: https://github.com/ysk3a/angular-codemirror
     - "Cannot find module 'codemirror' or its corresponding type declarations."
-    - tooltip on text hover to show more info
+    - customize tooltip on text hover to show more dynamic info the angular way...
   - ace editor in angular 16
     - tooltip on text hover to show more info
 <!-- - 💬 Ask me about ... -->
