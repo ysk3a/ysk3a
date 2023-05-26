@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 <!-- [![Top Langs3](https://github-readme-stats.vercel.app/api/top-langs/?username=ysk3a&langs_count=10&size_weight=0.5&count_weight=0.5)](https://github.com/ysk3a/github-readme-stats) -->
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ysk3a&show_icons=true)  -->
 <!-- ![ysk3a's GitHub stats](https://github-readme-stats.vercel.app/api?username=ysk3a&show_icons=true&theme=discord_old_blurple&count_private=true) -->
-<i>waiting for organization support for readme stats to show other languages</i>
+<!-- <i>waiting for organization support for readme stats to show other languages</i> -->
 <!-- ?orgs=backend-practice-group -->
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ysk3a)   -->
 <!-- above line erroring -->
