@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 <!-- ![ysk3a's GitHub stats](https://github-readme-stats.vercel.app/api?username=ysk3a&show_icons=true&theme=transparent) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ysk3a&langs_count=10)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- ![ysk3a's Github Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=ysk3a&langs_count=10&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR) -->
-[![Top Langs2](https://github-readme-stats.vercel.app/api/top-langs/?username=ysk3a&langs_count=10&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](https://github.com/ysk3a/github-readme-stats) 
+[![Top Langs2](https://github-readme-stats.vercel.app/api/top-langs/?username=ysk3a&langs_count=10&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&hide_border=true&theme=transparent&layout=default)](https://github.com/ysk3a/github-readme-stats) 
 <!-- [![Top Langs3](https://github-readme-stats.vercel.app/api/top-langs/?username=ysk3a&langs_count=10&size_weight=0.5&count_weight=0.5)](https://github.com/ysk3a/github-readme-stats) -->
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ysk3a&show_icons=true)  -->
 <!-- ![ysk3a's GitHub stats](https://github-readme-stats.vercel.app/api?username=ysk3a&show_icons=true&theme=discord_old_blurple&count_private=true) -->
