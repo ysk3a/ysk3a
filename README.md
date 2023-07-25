@@ -134,7 +134,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-![Bitcoin](https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white)
+<!-- ![Bitcoin](https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white)
 ![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)
 ![CodersRank](https://img.shields.io/badge/CodersRank-67A4AC?style=for-the-badge&logo=CodersRank&logoColor=white)
 ![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
@@ -161,16 +161,16 @@
 ![Signal](https://img.shields.io/badge/Signal-%23039BE5.svg?&style=for-the-badge&logo=Signal&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Teams](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white)
-![Tutanota](https://img.shields.io/badge/Tutanota-840010?style=for-the-badge&logo=Tutanota&logoColor=white)
+![Tutanota](https://img.shields.io/badge/Tutanota-840010?style=for-the-badge&logo=Tutanota&logoColor=white) -->
 
 </div>
 
 <!-- 
 ![hit](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fysk3a%2Fhit-counter)
 ![visits](https://komarev.com/ghpvc/?username=ysk3a&label=Profile%20views&color=0e75b6&style=flat)
--->
+
 ***
-<img src="assets/derppanda.png" width=40 alt="DerpPanda" />
+<!-- <img src="assets/derppanda.png" width=40 alt="DerpPanda" /> -->
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=ysk3a&data=followers,repositories,stars,commits)](https://github.com/ysk3a)
 
@@ -218,11 +218,8 @@
  dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
  -->
 ![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ysk3a&theme={theme_name})
-<!-- 
- -->
 
 ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ysk3a&theme={theme_name})
-
 
 ![](https://raw.githubusercontent.com/ysk3a/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 
@@ -245,8 +242,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ysk3a&theme=nord_dark)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ysk3a&theme=nord_dark)
-
-
 
 <details>
   
