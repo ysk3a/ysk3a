@@ -172,80 +172,13 @@
 ***
 <!-- <img src="assets/derppanda.png" width=40 alt="DerpPanda" /> -->
 
+<div align="center">
+
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=ysk3a&data=followers,repositories,stars,commits)](https://github.com/ysk3a)
 
-<details>
-  <summary>Stats</summary>
-  
-![Metrics](https://metrics.lecoq.io/ysk3a?template=classic&base.indepth=true&base.hireable=true&repositories.forks=true&isocalendar=1&languages=1&stargazers=1&lines=1&topics=1&stars=1&habits=1&followup=1&reactions=1&people=1&sponsorships=1&sponsors=1&repositories=1&discussions=1&starlists=1&calendar=1&achievements=1&notable=1&activity=1&traffic=1&code=1&projects=1&introduction=1&skyline=1&support=1&16personalities=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=true&base.skip=false&repositories.batch=100&repositories.forks=true&repositories.affiliations=owner&isocalendar=false&isocalendar.duration=full-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=true&languages.colors=github&languages.sections=most-used&languages.indepth=true&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stargazers=false&stargazers.days=14&stargazers.charts=true&stargazers.charts.type=graph&stargazers.worldmap=true&stargazers.worldmap.sample=0&lines=false&lines.sections=base&lines.repositories.limit=10&lines.history.limit=5&topics=false&topics.mode=starred&topics.sort=stars&topics.limit=15&stars=false&stars.limit=4&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=true&habits.charts.type=classic&habits.trim=true&habits.languages.limit=8&habits.languages.threshold=0%25&followup=false&followup.sections=repositories&followup.indepth=true&followup.archived=true&reactions=false&reactions.limit=200&reactions.limit.issues=100&reactions.limit.discussions=100&reactions.limit.discussions.comments=100&reactions.days=0&reactions.display=absolute&people=false&people.limit=24&people.identicons=true&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=true&sponsorships=false&sponsorships.sections=amount%2C%20sponsorships&sponsorships.size=24&sponsors=false&sponsors.sections=goal%2C%20list%2C%20about&sponsors.past=true&sponsors.size=24&sponsors.title=Sponsor%20Me!&repositories=false&repositories.pinned=0&repositories.starred=0&repositories.random=0&repositories.order=featured%2C%20pinned%2C%20starred%2C%20random&discussions=false&discussions.categories=true&discussions.categories.limit=10&starlists=false&starlists.limit=2&starlists.limit.repositories=2&starlists.languages=true&starlists.limit.languages=8&starlists.shuffle.repositories=true&calendar=false&calendar.limit=5&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable=false&notable.from=organization&notable.repositories=true&notable.indepth=true&notable.types=commit&notable.self=true&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=true&activity.filter=all&traffic=false&code=false&code.lines=12&code.load=400&code.days=3&code.visibility=public&projects=false&projects.limit=4&projects.descriptions=true&introduction=false&introduction.title=true&skyline=false&skyline.year=current-year&skyline.frames=60&skyline.quality=0.5&skyline.compatibility=true&skyline.settings=%7B%0A%20%20%22url%22%3A%20%22https%3A%2F%2Fskyline.github.com%2F%24%7Blogin%7D%2F%24%7Byear%7D%22%2C%0A%20%20%22ready%22%3A%20%22%5B...document.querySelectorAll('span')%5D.map(span%20%3D%3E%20span.innerText).includes('Share%20on%20Twitter')%22%2C%0A%20%20%22wait%22%3A%201%2C%0A%20%20%22hide%22%3A%20%22button%2C%20footer%2C%20a%22%0A%7D%0A&support=false&16personalities=false&16personalities.sections=personality&16personalities.scores=true&config.timezone=UTC&config.twemoji=true&config.octicon=true)
+</div>
 
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=ysk3a&theme=tokyonight)](https://git.io/streak-stats)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ysk3a&theme=tokyonight&row=2&column=3&margin-w=15&margin-h=15)](https://github.com/ysk3a/github-profile-trophy)
-
-[![Years Badge](https://badges.pufler.dev/years/ysk3a)](https://badges.pufler.dev)
-
-[![Repos Badge](https://badges.pufler.dev/repos/ysk3a)](https://badges.pufler.dev)
-
-[![Last Stars Display](https://badges.pufler.dev/last-stars/ysk3a?count=6&padding=15&perRow=3)](https://badges.pufler.dev)
-
-![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ysk3a&theme={theme_name})
-
-![Profile Detail](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ysk3a&theme={theme_name})
-
-![Github Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ysk3a&show_icons=true&theme={theme_name})
-![Github Stats](https://github-readme-stats.vercel.app/api?username=ysk3a&show_icons=true&theme={theme_name})
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ysk3a&theme={theme_name}&langs_count=10&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&show_icons=true)
-
-![Github Metrics](https://metrics.lecoq.io/ysk3a)
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=ysk3a)
-
-<!-- ![](https://stats.justsong.cn/api/leetcode/?username={ysk3a}&theme=dark) -->
-![GitHub streak stats](https://stats.justsong.cn/api/github?username=ysk3a&theme=dark)
-
-![Stats](https://github-readme-streak-stats.herokuapp.com/?user=ysk3a)
-
-![stats](https://github-readme-stats.vercel.app/api?username=ysk3a&show_icons=true&locale=en)
-
-![stats](https://github-readme-stats.vercel.app/api/top-langs?username=ysk3a&show_icons=true&locale=en&layout=compact)
-
-![Top Languages2](https://github-readme-stats.vercel.app/api/top-langs/?username=ysk3a&langs_count=10&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&hide_border=true&theme=transparent&layout=default)
-<!-- Default (cotton candy), react, react-dark, github, github-compact, xcode, rogue, merko, vue, tokyo-night, high-contrast, default, 2077, dracula, github, github_dark, gruvbox, monokai, nord_bright, nord_dark, radical, solarized, solarized_dark, tokyonight, vue, zenburn
- dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
- dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
- -->
-![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ysk3a&theme={theme_name})
-
-![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ysk3a&theme={theme_name})
-
-![](https://raw.githubusercontent.com/ysk3a/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-
-![](https://raw.githubusercontent.com/ysk3a/github-stats/master/generated/overview.svg#gh-light-mode-only)
-
-![](https://raw.githubusercontent.com/ysk3a/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-
-![](https://raw.githubusercontent.com/ysk3a/github-stats/master/generated/languages.svg#gh-light-mode-only)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ysk3a&theme=ayu_mirage)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ysk3a&theme=node_dark)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ysk3a&theme=nord_dark)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ysk3a&theme=nord_dark)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ysk3a&theme=nord_dark)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ysk3a&theme=nord_dark)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ysk3a&theme=nord_dark)
-
-</details>
-  
-<details>
+<details open>
   <summary>Jokes & Quotes</summary>
   <table>
     <tr>
@@ -258,3 +191,87 @@
     </tr>
   </table>
 </details>
+
+<details>
+  <summary>Stats</summary>
+
+  <!--
+![Metrics](https://metrics.lecoq.io/ysk3a?template=classic&base.indepth=true&base.hireable=true&repositories.forks=true&isocalendar=1&languages=1&stargazers=1&lines=1&topics=1&stars=1&habits=1&followup=1&reactions=1&people=1&sponsorships=1&sponsors=1&repositories=1&discussions=1&starlists=1&calendar=1&achievements=1&notable=1&activity=1&traffic=1&code=1&projects=1&introduction=1&skyline=1&support=1&16personalities=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=true&base.skip=false&repositories.batch=100&repositories.forks=true&repositories.affiliations=owner&isocalendar=false&isocalendar.duration=full-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=true&languages.colors=github&languages.sections=most-used&languages.indepth=true&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stargazers=false&stargazers.days=14&stargazers.charts=true&stargazers.charts.type=graph&stargazers.worldmap=true&stargazers.worldmap.sample=0&lines=false&lines.sections=base&lines.repositories.limit=10&lines.history.limit=5&topics=false&topics.mode=starred&topics.sort=stars&topics.limit=15&stars=false&stars.limit=4&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=true&habits.charts.type=classic&habits.trim=true&habits.languages.limit=8&habits.languages.threshold=0%25&followup=false&followup.sections=repositories&followup.indepth=true&followup.archived=true&reactions=false&reactions.limit=200&reactions.limit.issues=100&reactions.limit.discussions=100&reactions.limit.discussions.comments=100&reactions.days=0&reactions.display=absolute&people=false&people.limit=24&people.identicons=true&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=true&sponsorships=false&sponsorships.sections=amount%2C%20sponsorships&sponsorships.size=24&sponsors=false&sponsors.sections=goal%2C%20list%2C%20about&sponsors.past=true&sponsors.size=24&sponsors.title=Sponsor%20Me!&repositories=false&repositories.pinned=0&repositories.starred=0&repositories.random=0&repositories.order=featured%2C%20pinned%2C%20starred%2C%20random&discussions=false&discussions.categories=true&discussions.categories.limit=10&starlists=false&starlists.limit=2&starlists.limit.repositories=2&starlists.languages=true&starlists.limit.languages=8&starlists.shuffle.repositories=true&calendar=false&calendar.limit=5&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable=false&notable.from=organization&notable.repositories=true&notable.indepth=true&notable.types=commit&notable.self=true&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=true&activity.filter=all&traffic=false&code=false&code.lines=12&code.load=400&code.days=3&code.visibility=public&projects=false&projects.limit=4&projects.descriptions=true&introduction=false&introduction.title=true&skyline=false&skyline.year=current-year&skyline.frames=60&skyline.quality=0.5&skyline.compatibility=true&skyline.settings=%7B%0A%20%20%22url%22%3A%20%22https%3A%2F%2Fskyline.github.com%2F%24%7Blogin%7D%2F%24%7Byear%7D%22%2C%0A%20%20%22ready%22%3A%20%22%5B...document.querySelectorAll('span')%5D.map(span%20%3D%3E%20span.innerText).includes('Share%20on%20Twitter')%22%2C%0A%20%20%22wait%22%3A%201%2C%0A%20%20%22hide%22%3A%20%22button%2C%20footer%2C%20a%22%0A%7D%0A&support=false&16personalities=false&16personalities.sections=personality&16personalities.scores=true&config.timezone=UTC&config.twemoji=true&config.octicon=true)
+-->
+
+[![Years Badge](https://badges.pufler.dev/years/ysk3a)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/ysk3a)](https://badges.pufler.dev)
+
+<h5>GitHub Streak/Stats</h5>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ysk3a&theme=ayu_mirage)](https://git.io/streak-stats)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=ysk3a&include_orgs=true&show_icons=true&theme=tokyonight)
+
+
+<h5>Top Languages and Repos Per Language</h5>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ysk3a&include_orgs=true&theme=tokyonight&langs_count=10&role=OWNER,ORGANIZATION_MEMBER&show_icons=true)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ysk3a&theme=nord_dark)
+
+<h3>Metrics</h3>
+
+![Github Metrics](https://metrics.lecoq.io/ysk3a)
+
+
+<!--
+<h5>profile-details</h5>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ysk3a&theme=ayu_mirage)
+
+<h3>Activity</h3>
+
+![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ysk3a&theme={theme_name})
+
+<h3>overview</h3>
+
+![](https://raw.githubusercontent.com/ysk3a/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+
+<h3>languages</h3>
+
+![](https://raw.githubusercontent.com/ysk3a/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+
+<h3>trophy</h3>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ysk3a&theme=tokyonight&row=2&column=3&margin-w=15&margin-h=15)](https://github.com/ysk3a/github-profile-trophy)
+
+<h3>Last Stars</h3>
+
+[![Last Stars Display](https://badges.pufler.dev/last-stars/ysk3a?count=6&padding=15&perRow=3)](https://badges.pufler.dev)
+
+<h3>graph</h3>
+
+![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ysk3a&theme=tokyonight)
+
+![Profile Detail](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ysk3a&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ysk3a&theme={theme_name})
+![](https://raw.githubusercontent.com/ysk3a/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/ysk3a/github-stats/master/generated/languages.svg#gh-light-mode-only)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ysk3a&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ysk3a&theme=node_dark)
+![](https://stats.justsong.cn/api/leetcode/?username={ysk3a}&theme=dark)
+![GitHub streak stats](https://stats.justsong.cn/api/github?username=ysk3a&theme=dark)
+![stats](https://github-readme-stats.vercel.app/api?username=ysk3a&show_icons=true&locale=en&theme=dark)
+![stats](https://github-readme-stats.vercel.app/api/top-langs?username=ysk3a&show_icons=true&locale=en&layout=compact&theme=dark)
+![Top Languages2](https://github-readme-stats.vercel.app/api/top-langs/?username=ysk3a&langs_count=10&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&hide_border=true&theme=transparent&layout=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ysk3a&theme=nord_dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ysk3a&theme=nord_dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ysk3a&theme=nord_dark)
+
+-->
+<!-- Default (cotton candy), react, react-dark, github, github-compact, xcode, rogue, merko, vue, tokyo-night, high-contrast, default, 2077, dracula, github, github_dark, gruvbox, monokai, nord_bright, nord_dark, radical, solarized, solarized_dark, tokyonight, vue, zenburn
+ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
+ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
+ -->
+
+
+
+</details>
+  
+
