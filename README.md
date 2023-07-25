@@ -111,7 +111,7 @@
 
 <h3 align="left">Want To Learn/Use/Improve:</h3>
 
-<p>All of the Above.</p>
+<p>All of the above and:</p>
 
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Apache Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache%20cassandra&logoColor=white)
