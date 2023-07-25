@@ -243,7 +243,7 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ysk3a&theme=nord_dark)
 
-<details>
+</details>
   
 <details>
   <summary>Jokes & Quotes</summary>
