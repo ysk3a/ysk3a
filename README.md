@@ -60,8 +60,8 @@
   - i asked my dog this morning how his week's been going and he said ruff and i felt that.
 
 - ⚡ Fun fact: ...
-  - When you see me sigh or take a deep breathe, 99% of the time it is not because of you. I just sometimes forgot to breathe.
-  - I am a super shy person but likes to learn from experienced colleagues and ask bunch of questions.
+  - When you see me sigh or take a deep breathe, 99% of the time it is not because of you. I just sometimes forget to breathe.
+  - I am a super shy person but like to learn from experienced colleagues and ask bunch of questions.
   - I can't read the environment.
   - I am pretty bad an processing audio information/instruction. 
     - I try to look for a way to record to transcribe/re-listen
