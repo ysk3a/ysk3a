@@ -14,12 +14,13 @@
   - Advanced/Complex Spring Boot
   - Advanced Typescript, Kotlin, Java
   - Svelte4+/Sveltekit1.22.5+
+    - using Sveltekit not ssr and only csr dynamic data&route spa
   - Vue3+ (looking forward to how vapor-mode will be when released)
-  - to pass interview process to get a job at a big n company <img src="https://media.tenor.com/X9GeWcuz8HgAAAAi/brows.gif" width=20 alt="brows"/> since my introverted self goes self-burn mode.
+  - to pass interview process to get a job at a big n company <img src="https://media.tenor.com/X9GeWcuz8HgAAAAi/brows.gif" width=20 alt="brows"/> since my introverted self goes self-burnout mode.
   - Docker
   - go (because hype)
   - databases & caching
-  - profiling
+  - profiling?
 
 - 🤔 I’m looking for help with ...
   - codemirror 6 in angular 16: https://github.com/ysk3a/angular-codemirror
@@ -60,8 +61,8 @@
   - i asked my dog this morning how his week's been going and he said ruff and i felt that.
 
 - ⚡ Fun fact: ...
-  - When you see me sigh or take a deep breathe, 99% of the time it is not because of you. I just sometimes forget to breathe.
-  - I am a super shy person but like to learn from experienced colleagues and ask bunch of questions.
+  - When you see me sigh or take a deep breathe, 99% of the time it is not because of you. I just sometimes forgot to breathe.
+  - I am a super shy person but likes to learn from experienced colleagues and ask bunch of questions.
   - I can't read the environment.
   - I am pretty bad an processing audio information/instruction. 
     - I try to look for a way to record to transcribe/re-listen
@@ -86,11 +87,19 @@
   - career advancement 🤝
   - memes
 
+- WIP 
+  - MISC:
+    - Merging each social media, e.g. email, linkedin, mastadon, etc into its own single 'contact-able' and 'responsive' accounts instead of multiple accounts.
+  - PROJECT:
+    - sveltekit mvp using various lib. Trying to figure out how to make sveltekit not ssr and only csr dynamic data&route spa.
+    - spring boot security for my basic crud spring boot app
+    - angular advance topics
+    - hosting...
 
 
 <div align="left">
 
-<h3 align="left">Used/Using:</h3>
+<h3 align="left">Used/Using (and most definitely not an expert):</h3>
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -116,13 +125,13 @@
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Stackblitz](https://img.shields.io/badge/Stackblitz-fff?style=for-the-badge&logo=Stackblitz&logoColor=1389FD)
 ![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=Svelte&logoColor=white)
-![Svelte](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)
 ![Tauri](https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![VMware Workstation](https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+<!-- ![Svelte](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00) -->
 
 <h3 align="left">Want To Learn/Use/Improve:</h3>
 
@@ -190,7 +199,7 @@
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=ysk3a&data=followers,repositories,stars,commits)](https://github.com/ysk3a)
 
 <details>
-  <summary>Stats</summary>
+  <summary>Stats WIP</summary>
   
 ![Metrics](https://metrics.lecoq.io/ysk3a?template=classic&base.indepth=true&base.hireable=true&repositories.forks=true&isocalendar=1&languages=1&stargazers=1&lines=1&topics=1&stars=1&habits=1&followup=1&reactions=1&people=1&sponsorships=1&sponsors=1&repositories=1&discussions=1&starlists=1&calendar=1&achievements=1&notable=1&activity=1&traffic=1&code=1&projects=1&introduction=1&skyline=1&support=1&16personalities=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=true&base.skip=false&repositories.batch=100&repositories.forks=true&repositories.affiliations=owner&isocalendar=false&isocalendar.duration=full-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=true&languages.colors=github&languages.sections=most-used&languages.indepth=true&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stargazers=false&stargazers.days=14&stargazers.charts=true&stargazers.charts.type=graph&stargazers.worldmap=true&stargazers.worldmap.sample=0&lines=false&lines.sections=base&lines.repositories.limit=10&lines.history.limit=5&topics=false&topics.mode=starred&topics.sort=stars&topics.limit=15&stars=false&stars.limit=4&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=true&habits.charts.type=classic&habits.trim=true&habits.languages.limit=8&habits.languages.threshold=0%25&followup=false&followup.sections=repositories&followup.indepth=true&followup.archived=true&reactions=false&reactions.limit=200&reactions.limit.issues=100&reactions.limit.discussions=100&reactions.limit.discussions.comments=100&reactions.days=0&reactions.display=absolute&people=false&people.limit=24&people.identicons=true&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=true&sponsorships=false&sponsorships.sections=amount%2C%20sponsorships&sponsorships.size=24&sponsors=false&sponsors.sections=goal%2C%20list%2C%20about&sponsors.past=true&sponsors.size=24&sponsors.title=Sponsor%20Me!&repositories=false&repositories.pinned=0&repositories.starred=0&repositories.random=0&repositories.order=featured%2C%20pinned%2C%20starred%2C%20random&discussions=false&discussions.categories=true&discussions.categories.limit=10&starlists=false&starlists.limit=2&starlists.limit.repositories=2&starlists.languages=true&starlists.limit.languages=8&starlists.shuffle.repositories=true&calendar=false&calendar.limit=5&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable=false&notable.from=organization&notable.repositories=true&notable.indepth=true&notable.types=commit&notable.self=true&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=true&activity.filter=all&traffic=false&code=false&code.lines=12&code.load=400&code.days=3&code.visibility=public&projects=false&projects.limit=4&projects.descriptions=true&introduction=false&introduction.title=true&skyline=false&skyline.year=current-year&skyline.frames=60&skyline.quality=0.5&skyline.compatibility=true&skyline.settings=%7B%0A%20%20%22url%22%3A%20%22https%3A%2F%2Fskyline.github.com%2F%24%7Blogin%7D%2F%24%7Byear%7D%22%2C%0A%20%20%22ready%22%3A%20%22%5B...document.querySelectorAll('span')%5D.map(span%20%3D%3E%20span.innerText).includes('Share%20on%20Twitter')%22%2C%0A%20%20%22wait%22%3A%201%2C%0A%20%20%22hide%22%3A%20%22button%2C%20footer%2C%20a%22%0A%7D%0A&support=false&16personalities=false&16personalities.sections=personality&16personalities.scores=true&config.timezone=UTC&config.twemoji=true&config.octicon=true)
 
