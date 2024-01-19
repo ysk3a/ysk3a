@@ -55,11 +55,10 @@
     - markdown/rich-text editor/textbox area.
     - performant splitter
 
-
-
 - 😄 Humor:
   - i asked my dog this morning how his week's been going and he said ruff and i felt that.
-
+  - <img src="https://github.com/ysk3a/ysk3a/assets/53593899/cd861ffd-2d60-4edb-a805-eadf467b767d" alt="codingjourney" width="600">
+  
 - ⚡ Fun fact: ...
   - When you see me sigh or take a deep breathe, 99% of the time it is not because of you. I just sometimes forgot to breathe.
   - I am a super shy person but likes to learn from experienced colleagues and ask bunch of questions.
