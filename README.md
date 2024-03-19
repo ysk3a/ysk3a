@@ -13,8 +13,7 @@
   - Advanced/Complex Angular16+ and RxJS
   - Advanced/Complex Spring Boot
   - Advanced Typescript, Kotlin, Java
-  - Svelte4+/Sveltekit1.22.5+
-    - using Sveltekit not ssr and only csr dynamic data&route spa
+  - Svelte/Sveltekit
   - Vue3+ (looking forward to how vapor-mode will be when released)
   - to pass interview process to get a job at a big n company <img src="https://media.tenor.com/X9GeWcuz8HgAAAAi/brows.gif" width=20 alt="brows"/> since my introverted self goes self-burnout mode.
   - Docker
@@ -22,54 +21,17 @@
   - databases & caching
   - profiling?
 
-- 🤔 I’m looking for help with ...
-  - codemirror 6 in angular 16: https://github.com/ysk3a/angular-codemirror
-    - "Cannot find module 'codemirror' or its corresponding type declarations."
-    - customize tooltip on text hover to show more dynamic info the angular way...
-  - ace editor in angular 16
-    - tooltip on text hover to show more info using ui library component e.g. primeng, ngbootstrap, material
-
-- 📫 How to reach me:
-  - not by phone, that's for sure 😂 :money_with_wings:
-  - Don't have facebook, instagram, whatsapp or twitter so if you somehow find a 'me' there, it is probably NOT me.
-
-- ⚡ Technology, Services or Libraries that I `wish exists` or `have yet to find` or `wish to be able to implement`:
-  - For Angular and Svelte:
-    - Virtual Scroll/List that can handle dynamic and unknown height in addition to basic operations.
-      - attempts: to use web components but could not get it to work nor be able to pass or emit data.
-  - easy accesss & safe mentorship
-  - easy personal data deletion from brokers, social media etc.
-  - building high traffic/high volumn real time chat app using spring boot or whatever best that can work with/along side spring boot backend.
-
-  - Svelte UI Library that support dynamic tabs
-    - dynamic tabs/dynamic tab routes: add, remove edit tabs to render dynamic components/content.
-        - can save what tabs are opened and 'route-able'
-    - (right click to show context menu)-able.
-    - dashboard dynamic widget layout maker like `github.com/tiberiuzuld/angular-gridster2`
-
-  - Angular & Svelte UI Library that have:
-    - code editor (might just need use vanilla js library instead of third party wrapper).
-    - dynamic/unknown height virtual list, and virtual tree with sticky parent node and virtual timeline.
-    - responsive, performant diagram/orgchart/node-graph, gantt.
-    - @mentions.
-    - markdown/rich-text editor/textbox area.
-    - performant splitter
-
 - 😄 Humor:
   - i asked my dog this morning how his week's been going and he said ruff and i felt that.
   - <img src="https://github.com/ysk3a/ysk3a/assets/53593899/cd861ffd-2d60-4edb-a805-eadf467b767d" alt="codingjourney" width="600">
   
 - ⚡ Fun fact: ...
-  - When you see me sigh or take a deep breathe, 99% of the time it is not because of you. I just sometimes forgot to breathe.
-  - I am a super shy person but likes to learn from experienced colleagues and ask bunch of questions.
-  - I can't read the environment.
-  - I am pretty bad an processing audio information/instruction. 
+  - When you see me sigh or take a deep breathe, 99% of the time it is not because of you. I sometimes forget to breathe.
+  - I am a super shy person but likes to learn from experienced colleagues and ask lots of questions.
+  - I am pretty bad an processing audio information/instruction since I tend to focus too much on details rather than the whole picture. 
     - I try to look for a way to record to transcribe/re-listen
     - Request for written version.
     - And since I'm limited in storage, gotta delete the recorded file asap once noted.
-  - I self-proclaim myself having a brain that is like a single-threaded processor.
-    - coding = coding
-    - speaking = process 1: thinking then process 2: speak :P
 
 - 📄 Know about my experiences
   - I am programmer/coder/developer that writes code.
@@ -77,7 +39,7 @@
 - ✨ Interests
   - Sleep
   - My Health
-  - family & friends (top! you can always be replaced at work but not with family and friends.)
+  - family & friends
   - coding
   - learning new technologies
   - financial freedom
@@ -85,16 +47,6 @@
   - getting high paying and appreciative job <img src="https://media.tenor.com/fZbuXg5AaD8AAAAi/smirk.gif" width=20 alt="smirk-help" />
   - career advancement 🤝
   - memes
-
-- WIP 
-  - MISC:
-    - Merging each social media, e.g. email, linkedin, mastadon, etc into its own single 'contact-able' and 'responsive' accounts instead of multiple accounts.
-  - PROJECT:
-    - sveltekit mvp using various lib. Trying to figure out how to make sveltekit not ssr and only csr dynamic data&route spa.
-    - spring boot security for my basic crud spring boot app
-    - angular advance topics
-    - hosting...
-
 
 <div align="left">
 
@@ -134,7 +86,7 @@
 
 <h3 align="left">Want To Learn/Use/Improve:</h3>
 
-<p>All of the Above.</p>
+<p>All of the Above and:</p>
 
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Apache Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache%20cassandra&logoColor=white)
