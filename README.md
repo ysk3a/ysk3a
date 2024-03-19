@@ -2,7 +2,6 @@
 <h1>
   Hi there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  Welcome to my Gitlab&Codeberg -> Github Mirror.
   <img src="assets/derppanda.png" width=40 alt="DerpPanda" />
 </h1>
 
