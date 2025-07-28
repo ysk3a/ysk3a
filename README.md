@@ -5,7 +5,7 @@
   <img src="assets/derppanda.png" width=40 alt="DerpPanda" />
 </h1>
 
-![ysk3a's card](https://cardivo.vercel.app/api?name=ysk3a&description=Hi.%20Nice%20to%20meet%20you%20%F0%9F%91%8BI%20am%20a%20coder&image=https://avatars.githubusercontent.com/u/53593899?v=4&backgroundColor=%23ecf0f1&github=ysk3a&pattern=leaf&colorPattern=%23eaeaea)
+![ysk3a's card](https://cardivo.vercel.app/api?name=Cal&description=Hi.%20Nice%20to%20meet%20you%20%F0%9F%91%8BI%20am%20a%20coder&image=https://avatars.githubusercontent.com/u/53593899?v=4&backgroundColor=%23ecf0f1&github=ysk3a&pattern=leaf&colorPattern=%23eaeaea)
 
 
 - 🌱 What I want to learn or improve ...
@@ -24,20 +24,17 @@
   - i asked my dog this morning how his week's been going and he said ruff and i felt that.
   - <img src="https://github.com/ysk3a/ysk3a/assets/53593899/cd861ffd-2d60-4edb-a805-eadf467b767d" alt="codingjourney" width="600">
   
-- ⚡ Fun fact: ...
-  - When you see me sigh or take a deep breathe, 99% of the time it is not because of you. I sometimes forget to breathe.
+- ⚡ About: ...
   - I am a super shy person but likes to learn from experienced colleagues and ask lots of questions.
   - I am pretty bad an processing audio information/instruction since I tend to focus too much on details rather than the whole picture. 
     - I try to look for a way to record to transcribe/re-listen
-    - Request for written version.
-    - And since I'm limited in storage, gotta delete the recorded file asap once noted.
 
 - 📄 Know about my experiences
   - I am programmer/coder/developer that writes code.
 
 - ✨ Interests
   - Sleep
-  - My Health
+  - Health
   - family & friends
   - coding
   - learning new technologies
@@ -49,7 +46,7 @@
 
 <div align="left">
 
-<h3 align="left">Used/Using (and most definitely not an expert):</h3>
+<h3 align="left">Dabbled:</h3>
 
 |   |   |   |   |   |
 |---|---|---|---|---|
@@ -60,18 +57,17 @@
 | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)  |  ![Stackblitz](https://img.shields.io/badge/Stackblitz-fff?style=for-the-badge&logo=Stackblitz&logoColor=1389FD) | ![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=Svelte&logoColor=white)  | ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  | ![VMware Workstation](https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white)  |
 |  ![VirtualBox](https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white) |  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) |  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)  |  ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D) |   |
 
-<h3 align="left">Want To Learn/Use/Improve:</h3>
+<h3 align="left">Following</h3>
 
 <p>All of the Above and:</p>
 
-|   |   |   |   |   |
-|---|---|---|---|---|
-|  ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)  |  ![Apache Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache%20cassandra&logoColor=white)  | ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)   | ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)   |  ![Redis/DragonflyDB](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)  |
-| ![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)  |  ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) | ![Neo4j](https://img.shields.io/badge/Neo4j-018bff?style=for-the-badge&logo=neo4j&logoColor=white)  | ![Phoenix]()  |  ![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white) |
-|  ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)|  ![Tauri](https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF) |   |   |   |
-
+|   |   |   | 
+|---|---|---|
+| ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)   |  ![valkey](https://img.shields.io/badge/Valkey-4B275F?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iNjQiIGhlaWdodD0iNzMiIHZpZXdCb3g9IjAgMCA2NCA3MyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICAgIDxnIGlkPSJHcm91cC1jb3B5Ij4KICAgICAgICA8cGF0aCBpZD0iUGF0aCIgZmlsbD0iIzEyMzY3OCIgZmlsbC1ydWxlPSJldmVub2RkIiBzdHJva2U9Im5vbmUiIGQ9Ik0gMTMuNDgyMjg1IDYwLjY5NDk2MiBMIDAuOTk4Mzg0IDUyLjg4NDM5OSBMIDAuOTk4Mzg0IDE5LjUwMjkxNCBMIDMxLjUyNzg2OCAyLjAwMTIwNSBMIDYxLjMxNzYwNCAxOS41MzIwMjQgTCA2MS4zMTc2MDQgNTQuNjQ0ODkgTCAzMS4wNTQ4NTUgNzEuNjg5MjcgTCAyMC41NDgzNzIgNjUuMTE1ODA3IEwgMjAuNTQ4MzcyIDUxLjA0MTMyOCBMIDIwLjU0ODM3MiA0OS4xMTk4OTYgTCAxNC44NTE1MDQgNDUuNTU1NTA4IEwgMTQuODUxNTA0IDI3LjQ1MzE1OSBMIDMxLjM0NjQ5NyAxNy45OTcxMiBMIDQ3LjQ2NDQ4NSAyNy40ODIyNjIgTCA0Ny40NjQ0ODUgNDYuNDUxMTU3IEwgMzQuNzAzNDk1IDUzLjYzODEzOCBMIDM0LjcwMzQ5NSA0NS45OTg1NzMgQyAzOC41Mjg3NCA0NC41MjU1MiA0MS4yNzQ0NTIgNDAuNzM5MTg5IDQxLjI3NDQ1MiAzNi4yNzA0ODkgQyA0MS4yNzQ0NTIgMzAuNTEwNjU4IDM2LjcxMjgxNCAyNS44ODQzOCAzMS4xNTgxMzggMjUuODg0MzggQyAyNS42MDMxNzIgMjUuODg0MzggMjEuMDQxODE3IDMwLjUxMDY1OCAyMS4wNDE4MTcgMzYuMjcwNDg5IEMgMjEuMDQxODE3IDQwLjczOTE4OSAyMy43ODcyNDkgNDQuNTI1NTIgMjcuNjEyNDk0IDQ1Ljk5ODU3MyBMIDI3LjYxMjQ5NCA2MC40NzM1NzYgTCAzMS4yNjExMzMgNjIuNzU2MzQ4IEwgNTMuNjM1NDgzIDUwLjE1NDY0IEwgNTMuNjM1NDgzIDIzLjkyNDU5NSBMIDMxLjQ3NzQ4OSAxMC44ODQ4NjkgTCA4LjY4MDUwNCAyMy45NTM3MDUgTCA4LjY4MDUwNCA0OC42Mjg5NjcgTCAxMy40ODIyODUgNTEuNjMzMjk3IEwgMTMuNDgyMjg1IDYwLjY5NDk2MiBaIE0gMzEuMTU4MTM4IDMxLjQ5ODM4MyBDIDMzLjY3MTgyMiAzMS40OTgzODMgMzUuNjYwNDM5IDMzLjY2NDE2MiAzNS42NjA0MzkgMzYuMjcwNDg5IEMgMzUuNjYwNDM5IDM4Ljg3NjgwNCAzMy42NzE4MjIgNDEuMDQyNTg3IDMxLjE1ODEzOCA0MS4wNDI1ODcgQyAyOC42NDQ0NDcgNDEuMDQyNTg3IDI2LjY1NTU1OCAzOC44NzY4MDQgMjYuNjU1NTU4IDM2LjI3MDQ4OSBDIDI2LjY1NTU1OCAzMy42NjQxNjIgMjguNjQ0NDQ3IDMxLjQ5ODM4MyAzMS4xNTgxMzggMzEuNDk4MzgzIFoiIC8+CiAgICA8L2c+Cjwvc3ZnPg==)  |  ![Tauri](https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF) 
+| ![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)  |  ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) |  ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)|  |   |   |   |
+<!--
 <h3 align="left">Connect with me:</h3>
-
+ -->
 <!-- ![Bitcoin](https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white)
 ![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)
 ![CodersRank](https://img.shields.io/badge/CodersRank-67A4AC?style=for-the-badge&logo=CodersRank&logoColor=white)
@@ -110,16 +106,36 @@
 ***
 <!-- <img src="assets/derppanda.png" width=40 alt="DerpPanda" /> -->
 
+
+<details open>
+  <summary>Stats</summary>
+  <!--
+![Metrics](https://metrics.lecoq.io/ysk3a?template=classic&base.indepth=true&base.hireable=true&repositories.forks=true&isocalendar=1&languages=1&stargazers=1&lines=1&topics=1&stars=1&habits=1&followup=1&reactions=1&people=1&sponsorships=1&sponsors=1&repositories=1&discussions=1&starlists=1&calendar=1&achievements=1&notable=1&activity=1&traffic=1&code=1&projects=1&introduction=1&skyline=1&support=1&16personalities=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=true&base.skip=false&repositories.batch=100&repositories.forks=true&repositories.affiliations=owner&isocalendar=false&isocalendar.duration=full-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=true&languages.colors=github&languages.sections=most-used&languages.indepth=true&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stargazers=false&stargazers.days=14&stargazers.charts=true&stargazers.charts.type=graph&stargazers.worldmap=true&stargazers.worldmap.sample=0&lines=false&lines.sections=base&lines.repositories.limit=10&lines.history.limit=5&topics=false&topics.mode=starred&topics.sort=stars&topics.limit=15&stars=false&stars.limit=4&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=true&habits.charts.type=classic&habits.trim=true&habits.languages.limit=8&habits.languages.threshold=0%25&followup=false&followup.sections=repositories&followup.indepth=true&followup.archived=true&reactions=false&reactions.limit=200&reactions.limit.issues=100&reactions.limit.discussions=100&reactions.limit.discussions.comments=100&reactions.days=0&reactions.display=absolute&people=false&people.limit=24&people.identicons=true&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=true&sponsorships=false&sponsorships.sections=amount%2C%20sponsorships&sponsorships.size=24&sponsors=false&sponsors.sections=goal%2C%20list%2C%20about&sponsors.past=true&sponsors.size=24&sponsors.title=Sponsor%20Me!&repositories=false&repositories.pinned=0&repositories.starred=0&repositories.random=0&repositories.order=featured%2C%20pinned%2C%20starred%2C%20random&discussions=false&discussions.categories=true&discussions.categories.limit=10&starlists=false&starlists.limit=2&starlists.limit.repositories=2&starlists.languages=true&starlists.limit.languages=8&starlists.shuffle.repositories=true&calendar=false&calendar.limit=5&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable=false&notable.from=organization&notable.repositories=true&notable.indepth=true&notable.types=commit&notable.self=true&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=true&activity.filter=all&traffic=false&code=false&code.lines=12&code.load=400&code.days=3&code.visibility=public&projects=false&projects.limit=4&projects.descriptions=true&introduction=false&introduction.title=true&skyline=false&skyline.year=current-year&skyline.frames=60&skyline.quality=0.5&skyline.compatibility=true&skyline.settings=%7B%0A%20%20%22url%22%3A%20%22https%3A%2F%2Fskyline.github.com%2F%24%7Blogin%7D%2F%24%7Byear%7D%22%2C%0A%20%20%22ready%22%3A%20%22%5B...document.querySelectorAll('span')%5D.map(span%20%3D%3E%20span.innerText).includes('Share%20on%20Twitter')%22%2C%0A%20%20%22wait%22%3A%201%2C%0A%20%20%22hide%22%3A%20%22button%2C%20footer%2C%20a%22%0A%7D%0A&support=false&16personalities=false&16personalities.sections=personality&16personalities.scores=true&config.timezone=UTC&config.twemoji=true&config.octicon=true)
+-->
+<!--
+[![GitHub Streak](https://streak-stats.demolab.com?user=ysk3a&theme=tokyonight)](https://git.io/streak-stats)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ysk3a)
+![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ysk3a&theme={theme_name})
+-->
+
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=ysk3a&data=followers,repositories,stars,commits)](https://github.com/ysk3a)
 
-<details>
-  <summary>Stats WIP</summary>
-  
-![Metrics](https://metrics.lecoq.io/ysk3a?template=classic&base.indepth=true&base.hireable=true&repositories.forks=true&isocalendar=1&languages=1&stargazers=1&lines=1&topics=1&stars=1&habits=1&followup=1&reactions=1&people=1&sponsorships=1&sponsors=1&repositories=1&discussions=1&starlists=1&calendar=1&achievements=1&notable=1&activity=1&traffic=1&code=1&projects=1&introduction=1&skyline=1&support=1&16personalities=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=true&base.skip=false&repositories.batch=100&repositories.forks=true&repositories.affiliations=owner&isocalendar=false&isocalendar.duration=full-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=true&languages.colors=github&languages.sections=most-used&languages.indepth=true&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stargazers=false&stargazers.days=14&stargazers.charts=true&stargazers.charts.type=graph&stargazers.worldmap=true&stargazers.worldmap.sample=0&lines=false&lines.sections=base&lines.repositories.limit=10&lines.history.limit=5&topics=false&topics.mode=starred&topics.sort=stars&topics.limit=15&stars=false&stars.limit=4&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=true&habits.charts.type=classic&habits.trim=true&habits.languages.limit=8&habits.languages.threshold=0%25&followup=false&followup.sections=repositories&followup.indepth=true&followup.archived=true&reactions=false&reactions.limit=200&reactions.limit.issues=100&reactions.limit.discussions=100&reactions.limit.discussions.comments=100&reactions.days=0&reactions.display=absolute&people=false&people.limit=24&people.identicons=true&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=true&sponsorships=false&sponsorships.sections=amount%2C%20sponsorships&sponsorships.size=24&sponsors=false&sponsors.sections=goal%2C%20list%2C%20about&sponsors.past=true&sponsors.size=24&sponsors.title=Sponsor%20Me!&repositories=false&repositories.pinned=0&repositories.starred=0&repositories.random=0&repositories.order=featured%2C%20pinned%2C%20starred%2C%20random&discussions=false&discussions.categories=true&discussions.categories.limit=10&starlists=false&starlists.limit=2&starlists.limit.repositories=2&starlists.languages=true&starlists.limit.languages=8&starlists.shuffle.repositories=true&calendar=false&calendar.limit=5&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable=false&notable.from=organization&notable.repositories=true&notable.indepth=true&notable.types=commit&notable.self=true&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=true&activity.filter=all&traffic=false&code=false&code.lines=12&code.load=400&code.days=3&code.visibility=public&projects=false&projects.limit=4&projects.descriptions=true&introduction=false&introduction.title=true&skyline=false&skyline.year=current-year&skyline.frames=60&skyline.quality=0.5&skyline.compatibility=true&skyline.settings=%7B%0A%20%20%22url%22%3A%20%22https%3A%2F%2Fskyline.github.com%2F%24%7Blogin%7D%2F%24%7Byear%7D%22%2C%0A%20%20%22ready%22%3A%20%22%5B...document.querySelectorAll('span')%5D.map(span%20%3D%3E%20span.innerText).includes('Share%20on%20Twitter')%22%2C%0A%20%20%22wait%22%3A%201%2C%0A%20%20%22hide%22%3A%20%22button%2C%20footer%2C%20a%22%0A%7D%0A&support=false&16personalities=false&16personalities.sections=personality&16personalities.scores=true&config.timezone=UTC&config.twemoji=true&config.octicon=true)
+![Profile Detail](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ysk3a&theme=default)
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=ysk3a&show_icons=true&theme={theme_name})
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ysk3a&theme={theme_name}&langs_count=10&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&show_icons=true)
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ysk3a&theme=tokyonight)](https://git.io/streak-stats)
 
+
+
+<!-- Default (cotton candy), react, react-dark, github, github-compact, xcode, rogue, merko, vue, tokyo-night, high-contrast, default, 2077, dracula, github, github_dark, gruvbox, monokai, nord_bright, nord_dark, radical, solarized, solarized_dark, tokyonight, vue, zenburn
+ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
+ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
+
+ ![Top Languages2](https://github-readme-stats.vercel.app/api/top-langs/?username=ysk3a&langs_count=10&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&hide_border=true&theme=transparent&layout=default)
+ 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ysk3a&theme=tokyonight&row=2&column=3&margin-w=15&margin-h=15)](https://github.com/ysk3a/github-profile-trophy)
 
 [![Years Badge](https://badges.pufler.dev/years/ysk3a)](https://badges.pufler.dev)
@@ -128,36 +144,10 @@
 
 [![Last Stars Display](https://badges.pufler.dev/last-stars/ysk3a?count=6&padding=15&perRow=3)](https://badges.pufler.dev)
 
-![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ysk3a&theme={theme_name})
-
-![Profile Detail](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ysk3a&theme={theme_name})
 
 ![Github Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ysk3a&show_icons=true&theme={theme_name})
-![Github Stats](https://github-readme-stats.vercel.app/api?username=ysk3a&show_icons=true&theme={theme_name})
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ysk3a&theme={theme_name}&langs_count=10&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&show_icons=true)
-
-![Github Metrics](https://metrics.lecoq.io/ysk3a)
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=ysk3a)
-
-<!-- ![](https://stats.justsong.cn/api/leetcode/?username={ysk3a}&theme=dark) -->
-![GitHub streak stats](https://stats.justsong.cn/api/github?username=ysk3a&theme=dark)
-
-![Stats](https://github-readme-streak-stats.herokuapp.com/?user=ysk3a)
-
-![stats](https://github-readme-stats.vercel.app/api?username=ysk3a&show_icons=true&locale=en)
-
-![stats](https://github-readme-stats.vercel.app/api/top-langs?username=ysk3a&show_icons=true&locale=en&layout=compact)
-
-![Top Languages2](https://github-readme-stats.vercel.app/api/top-langs/?username=ysk3a&langs_count=10&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&hide_border=true&theme=transparent&layout=default)
-<!-- Default (cotton candy), react, react-dark, github, github-compact, xcode, rogue, merko, vue, tokyo-night, high-contrast, default, 2077, dracula, github, github_dark, gruvbox, monokai, nord_bright, nord_dark, radical, solarized, solarized_dark, tokyonight, vue, zenburn
- dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
- dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
- -->
-![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ysk3a&theme={theme_name})
-
-![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ysk3a&theme={theme_name})
+ ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ysk3a&theme={theme_name})
 
 ![](https://raw.githubusercontent.com/ysk3a/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 
@@ -181,9 +171,27 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ysk3a&theme=nord_dark)
 
+
+![Github Metrics](https://metrics.lecoq.io/ysk3a)
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=ysk3a)
+
+![GitHub streak stats](https://stats.justsong.cn/api/github?username=ysk3a&theme=dark)
+
+![Stats](https://github-readme-streak-stats.herokuapp.com/?user=ysk3a)
+
+![stats](https://github-readme-stats.vercel.app/api?username=ysk3a&show_icons=true&locale=en)
+
+![stats](https://github-readme-stats.vercel.app/api/top-langs?username=ysk3a&show_icons=true&locale=en&layout=compact)
+ -->
+
+ <!-- ![](https://stats.justsong.cn/api/leetcode/?username={ysk3a}&theme=dark) -->
+
+
+
 </details>
   
-<details>
+<details open>
   <summary>Jokes & Quotes</summary>
   <table>
     <tr>
